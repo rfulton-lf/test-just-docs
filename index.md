@@ -3,8 +3,11 @@ title: Home
 layout: home
 nav-order: 1
 ---
+## Home Example
+This tab corresponds to the file "index.md" located in the root directory.
 
-This is a template to create a Jekyll site that uses the [Just the Docs] theme with minimal additional Laserfiche styles. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+## General Info
+This site as a whole uses the [Just the Docs] theme with minimal additional Laserfiche styles. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 
 You're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
