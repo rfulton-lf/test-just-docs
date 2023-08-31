@@ -1,7 +1,7 @@
 ---
 title: a third tab
 layout: default
-nav-order: 3
+nav-order: 10
 ---
 
 ## Header
