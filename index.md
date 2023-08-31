@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-nav-order: 1
+nav_order: 1
 ---
 ## Home Example
 This tab corresponds to the file "index.md" located in the root directory.
